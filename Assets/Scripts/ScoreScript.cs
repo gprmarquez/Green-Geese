@@ -11,7 +11,7 @@ public class ScoreScript : MonoBehaviour
     void Start()
     {
         scoreValue = 0;
-        score = GetComponent<TMP_Text> ();   
+        score = GetComponent<TMP_Text>();
     }
 
     // Update is called once per frame
