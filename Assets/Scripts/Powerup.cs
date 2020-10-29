@@ -12,22 +12,22 @@ public class Powerup : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (transform.position.y >= 10)
+        if (transform.position.y >= 50)
         {
             this.gameObject.GetComponent<SpriteRenderer>().sprite = Level1;
         }
 
-        if (transform.position.y >= 15)
+        if (transform.position.y >= 100)
         {
             this.gameObject.GetComponent<SpriteRenderer>().sprite = Level2;
         }
 
-        if (transform.position.y >= 20)
+        if (transform.position.y >= 150)
         {
             this.gameObject.GetComponent<SpriteRenderer>().sprite = Level3;
         }
 
-        if (transform.position.y >= 25)
+        if (transform.position.y >= 225)
         {
             this.gameObject.GetComponent<SpriteRenderer>().sprite = Level4;
         }

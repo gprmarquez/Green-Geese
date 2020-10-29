@@ -3,13 +3,13 @@
 Green-Geese is a plant-themed 2D platformer game. The player starts off as a seed, and has to jump up the platforms and avoid falling down. There will be powerups such as fertilizer and water that will help the seed grow and turn into a full grown plant. 
 
 ## Technologies Used:
-- Unity
-- Github for Unity
+- [Unity](https://unity.com/) (2019)
+- [Github for Unity](https://unity.github.com/)
 - [FlatIcon](https://www.flaticon.com/) for assets
 
 ## Check it out!
 - Deployed at: TBA
-- Devpost Submission: 
+- Devpost Submission: https://devpost.com/software/green-geese
 
 ## Made with ❤️ by Pod 1.1.6 (Team 1):
 | Cirill Dalangin | Gerald Marquez | Pablo Domínguez Durán | Caleb Lim |
